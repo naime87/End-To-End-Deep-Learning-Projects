@@ -223,9 +223,10 @@ __marimo__/
 # Dataset
 artifacts/data_ingestion/*.zip
 artifacts/data_ingestion/*.csv
+artifacts/
 
 # Generated artifacts
-artifacts/
+artifacts/*
 *.h5
 *.keras
 *.pkl
